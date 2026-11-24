@@ -1,11 +1,23 @@
-<h1 align="center">✨ Hi there, I'm Apaphon Nillaphat ✨</h1>
-<p align="center">
-  <b>💻 IT Girl &nbsp;|&nbsp; 🌱 Lifelong Learner &nbsp;|&nbsp; 🚀 Tech Enthusiast</b>
-</p>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=3000&color=ff1493&lines=Hello+there%2C+It's+Apaphon+%E2%9C%A8;" alt="Hello there, It's Apaphon ✨">
+  </h1>
+  
+  <p align="center">
+    <b>🎀 IT Girl 🎀 | ☕ Coffee & Code ☕ | 🦄 Tech Explorer 🦄</b>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apaphonn-beep&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
+  <!-- ไอคอนทักษะและเครื่องมือหลัก (Style: flat-square, สีคุมโทน) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
+  </p>
+</div>
+
+---
 ###  About Me🍥
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ : Workflow
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน : Java Html Css
