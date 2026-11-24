@@ -7,7 +7,7 @@
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน : Java Html Css
 - 💬 สามารถพูดคุยและปรึกษาเรื่อง : Design
 - 📫 ช่องทางติดต่อ : apaphon.n@ku.th, IG : 97jnpanx
-- ⚡ Fun fact : I like to press concert tickets, so I came to learn to write a website to press tickets.
+- ⚡ Fun fact : เคยกดบัตรคอนเสิร์ตแล้วบอทลงเลยมาเรียนเขียนเว็บเองเลย
 
 ---
 
