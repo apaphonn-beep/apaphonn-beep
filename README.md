@@ -1,15 +1,15 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=34&duration=3000&color=9D4EDD&center=true&vCenter=true&width=600&height=70&lines=Hello+there%2C+It's+Apaphon+%E2%9C%A8" alt="Hello there, It's Apaphon ✨">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=34&duration=3000&color=c39cf8&center=true&vCenter=true&width=600&height=70&lines=Hello+there%2C+It's+Apaphon+%E2%9C%A8" alt="Hello there, It's Apaphon ✨">
   </h1>
   
   <p align="center">
-    <b>🎀 IT Girl 🎀 | ☕ Coffee & Code ☕ | 🦄 Tech Explorer 🦄</b>
+    <b>🎀 IT Girl 🎀 | 🍵 Matcha & Code 🍵 | 🍥 Concert 🍥</b>
   </p>
 </div>
 
 ---
-###  About Me🍥
+###  About Me ;)
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ : Workflow
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน : Java Html Css
 - 💬 สามารถพูดคุยและปรึกษาเรื่อง : Design
