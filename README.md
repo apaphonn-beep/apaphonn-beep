@@ -1,5 +1,5 @@
 # Apaphon_Nillaphat
-<h1 align="center">Hi girl👋</h1>
+<h1 align="center">Hi girl, I'm Apaphon👋</h1>
 <h3 align="center">IT student</h3>
 
 
@@ -20,7 +20,6 @@
 ---
 
 ### 📊 My Github (GitHub Stats)
-*(หมายเหตุ: เปลี่ยนคำว่า YOUR_USERNAME เป็นชื่อผู้ใช้ GitHub ของคุณทั้ง 2 จุด)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apaphonn-beep&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
