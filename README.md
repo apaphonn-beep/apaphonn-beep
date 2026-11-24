@@ -1,4 +1,9 @@
-# Apaphon
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</p>
+
+<h1 align="center">สวัสดีค่ะ! ยินดีต้อนรับสู่ GitHub ของ Apaphon 👋</h1>
+<h3 align="center">✨ IT Girl | ชอบเรียนรู้เทคโนโลยีและพัฒนาโปรเจกต์ใหม่ๆ ✨</h3>
 <h1 align="center">Hi girl, I'm Apaphon👋</h1>
 <h3 align="center">IT student</h3>
 
