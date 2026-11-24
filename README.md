@@ -2,7 +2,16 @@
 <h1 align="center">Hi girl, I'm Apaphon👋</h1>
 <h3 align="center">IT student</h3>
 
+###  About Me🍥
+- 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ :
+- 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน : Java Html Css
+- 💬 สามารถพูดคุยและปรึกษาเรื่อง : Design
+- 📫 ช่องทางติดต่อ : apaphon.n@ku.th, IG : 97jnpanx
+- ⚡ Fun fact : I like to press concert tickets, so I came to learn to write a website to press tickets.
 
+---
+
+ 🛠️ ทักษะและเครื่องมือ (Tech Stack)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
