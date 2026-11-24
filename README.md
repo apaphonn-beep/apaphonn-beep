@@ -1,12 +1,11 @@
+<h1 align="center">✨ Hi there, I'm Apaphon Nillaphat ✨</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <b>💻 IT Girl &nbsp;|&nbsp; 🌱 Lifelong Learner &nbsp;|&nbsp; 🚀 Tech Enthusiast</b>
 </p>
 
-<h1 align="center">สวัสดีค่ะ! ยินดีต้อนรับสู่ GitHub ของ Apaphon 👋</h1>
-<h3 align="center">✨ IT Girl | ชอบเรียนรู้เทคโนโลยีและพัฒนาโปรเจกต์ใหม่ๆ ✨</h3>
-<h1 align="center">Hi girl, I'm Apaphon👋</h1>
-<h3 align="center">IT student</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=apaphonn-beep&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
 ###  About Me🍥
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ : Workflow
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน : Java Html Css
