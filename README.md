@@ -7,17 +7,7 @@
     <b>🎀 IT Girl 🎀 | ☕ Coffee & Code ☕ | 🦄 Tech Explorer 🦄</b>
   </p>
 
-  <!-- ไอคอนทักษะและเครื่องมือหลัก (Style: flat-square, สีคุมโทน) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
-  </p>
-</div>
 
----
 ###  About Me🍥
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ : Workflow
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน : Java Html Css
